@@ -11,10 +11,11 @@ TUTILLO CHIMARRO NICOL CAROLINA
   
 [![VOLTAJE-RESISTENCIA.png](https://i.postimg.cc/4xTsRpcv/VOLTAJE-RESISTENCIA.png)](https://postimg.cc/BXNdxLMt)
 
-  - CALCULO DE LA CORRIENTE Y EL VOLTAJE 
-  
-[![CALCULO-CORRIENTE.png](https://i.postimg.cc/6Qq9MtRF/CALCULO-CORRIENTE.png)](https://postimg.cc/Mck2Tk9Y)
+  - CALCULO VOLTAJE Y CORRIENTE 
 
-  - CALCULO DE LA RESISTENCIA
-  
-[![RESISTENCIA.png](https://i.postimg.cc/7YNwDfnp/RESISTENCIA.png)](https://postimg.cc/D8mtPfDg)
+[![VOLTAJE-Y-CORRIENTE.png](https://i.postimg.cc/nhL0dhV4/VOLTAJE-Y-CORRIENTE.png)](https://postimg.cc/XpTfq3Cq)
+
+  - CALCULO DE RESISTENCIA 
+
+[![RESISTENCIA-y-errores.png](https://i.postimg.cc/R0QvCdfQ/RESISTENCIA-y-errores.png)](https://postimg.cc/LqXcNzxn)
+
