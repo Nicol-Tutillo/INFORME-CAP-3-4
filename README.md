@@ -1,5 +1,5 @@
 # INFORME-CAP-3-4
-Informe sobre la ley de ohm y Energía y potencia 
+ 
 TUTILLO CHIMARRO NICOL CAROLINA  
 <h2><b>1. OBJETIVOS</b></h2>
 
@@ -13,7 +13,8 @@ TUTILLO CHIMARRO NICOL CAROLINA
 
   - CALCULO VOLTAJE Y CORRIENTE 
 
-[![VOLTAJE-Y-CORRIENTE.png](https://i.postimg.cc/nhL0dhV4/VOLTAJE-Y-CORRIENTE.png)](https://postimg.cc/XpTfq3Cq)
+![VOLTAJE Y CORRIENTE ](https://user-images.githubusercontent.com/105675032/171858664-affb1007-03b4-40e6-9e7a-3a85a570e482.png)
+
 
   - CALCULO DE RESISTENCIA 
 
