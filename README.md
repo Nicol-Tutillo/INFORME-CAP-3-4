@@ -270,6 +270,7 @@ En la figura presentada se puede apreciar como las lecturas de las resistencias 
 
   <h2></b>4. VIDEO</b></h2>
 
+https://youtu.be/n8Wg3BYrcwE
 
   <h2><b>5. CONCLUSIONES</b></h2> 
   
